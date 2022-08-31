@@ -1,6 +1,8 @@
 # 🎲 DiceGame
 
-Start up landing page for a fictional application named TinDog. TinDog allows the user to find other dogs & their owners nearby in the swipe left/right style made famous by Tinder.
+Created an interactive dice game website that prompts user to enter 2 name inputs, randomly assigns them a dice value each, displays their number and dice images, compares and declares results.
+
+
 <hr>
 DEPLOYEMENT:
 <br>
@@ -18,7 +20,7 @@ BUILT WITH:
 <br>
 * HTML
 * CSS
-* BOOTSTRAP
+* JAVASCRIPT
 <hr>
 
 AUTHOR:
